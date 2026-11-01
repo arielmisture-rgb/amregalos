@@ -41,6 +41,6 @@ var PRODUCTOS = [
  
  
  
-  {nombre:"Figura decorativa - Shawn el cordero ", cat:"Decoración", desc:"Pieza para escritorio o estanteria (no apto para el juego de niños).", precio:9000, desde:true, tag:"A pedido", img:"./img/IMG_0678.jpeg"},
-  {nombre:"Figura decorativa - Batman el caballero de la noche", cat:"Decoración", desc:"Pieza para escritorio o estantería (no apto para el juego de niños).", precio:12000, desde:true, img:"./img/IMG_0807.jpeg"}
+  {nombre:"Figura decorativa - Shawn el cordero ", cat:"Decoración", desc:"Pieza para escritorio o estanteria (no apto para juego de niños).", precio:9000, desde:true, tag:"A pedido", img:"./img/IMG_0678.jpeg"},
+  {nombre:"Figura decorativa - Batman el caballero de la noche", cat:"Decoración", desc:"Pieza para escritorio o estantería (no apto para juego de niños).", precio:12000, desde:true, img:"./img/IMG_0807.jpeg"}
 ];
